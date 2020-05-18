@@ -91,3 +91,5 @@ class RedisLockingWorker(redis: RedisClient) extends LockingWorker {
 ## Contributing
 
 Before contributing, please read the contributors guide for useful information.
+
+
